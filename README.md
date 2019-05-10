@@ -9,3 +9,5 @@
 * docs :books: Documentation only changes
 * wip :construction: Work in progress
 * code-review :ok_hand: Code review changes
+
+Emojis and samples extracted from: https://gist.github.com/parmentf/035de27d6ed1dce0b36a
